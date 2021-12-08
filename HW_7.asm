@@ -1,8 +1,3 @@
-# Name: Varun Poondi
-# Net-ID: VMP190003
-# Prof: Yi Zhao
-# Date: 11/29/2021
-
 # This program employs the use of stacks to implement the mergeSort algorithm. It works by sorting the values by shiftvalue  2, then 4, then
 # 8, 16, and finally 32 numbers. Since there is only 1 stack available, the newly updated list is stored at the top of the old list.
 # For example if we currently have a list that is sorted by 2 elements at a time, we the sort 4 elements at a time and store it on top of 
